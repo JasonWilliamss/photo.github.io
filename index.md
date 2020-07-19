@@ -1,9 +1,7 @@
 ## 欢迎来到这个网页
 
-You can use the [editor on GitHub](https://github.com/JasonWilliamss/photo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+这是我送给学校的电子相册（算是吧）
+因为技术力的不够的原因正在学习HTML当中并且在不停完善网页
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
